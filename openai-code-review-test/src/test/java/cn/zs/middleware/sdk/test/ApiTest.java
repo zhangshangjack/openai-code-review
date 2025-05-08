@@ -18,7 +18,7 @@ public class ApiTest {
 
     @Test
     public void test() {
-        System.out.println(Integer.parseInt("ddd"));
+        System.out.println(Integer.parseInt("ddd222"));
 
     }
 }
