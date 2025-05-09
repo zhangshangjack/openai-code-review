@@ -4,7 +4,7 @@ package cn.zs.middleware.sdk.domain.model;
 
 import java.util.List;
 
-public class ChatCompletionSyncResponse {
+public class ChatCompletionSyncResponseDTO {
 
     private List<Choice> choices;
 
