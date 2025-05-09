@@ -12,6 +12,7 @@ import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import cn.zs.middleware.sdk.type.utils.RandomStringUtils;
 
 public class GitCommand {
 
